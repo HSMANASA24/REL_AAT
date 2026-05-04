@@ -1,0 +1,2 @@
+run_id,episodes,avg_reward,alpha,gamma,epsilon
+qlearning_v1,400,-367.94,0.15,0.95,0.4
